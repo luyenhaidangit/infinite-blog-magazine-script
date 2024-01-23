@@ -1,0 +1,2 @@
+# infinite-blog-magazine-script
+ 
